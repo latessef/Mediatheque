@@ -1,5 +1,5 @@
 # Mediatheque
-les  étapes pour utilisé l'app
+------------------  les  étapes pour utiliser l'app -----------------------------
 1 -  installer mysql (ou phpmyadmin)
 2 -  importer fichier bd
 3 -  ouvrir le projet avec un IDE
